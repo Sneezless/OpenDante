@@ -35,10 +35,10 @@ Users must provide their own legally obtained game files.
 ```
 apps/
 docs/
-lib/
+runtime/
 research/
 tests/
-third_party/
+tools/
 ```
 
 ## Current Status
